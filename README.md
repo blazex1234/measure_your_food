@@ -17,7 +17,7 @@
         <li><a href="fruits.html">Fruits</a></li>
         <li><a href="vegetables.html">Vegetables</a></li>
         <li><a href="grains.html">Grains</a></li>
-        <li><a href="meat.html">Meat</a></li>
+        <li><a href="meat.html">Meen</a></li>
     </ul>
 </body>
 
