@@ -11,13 +11,22 @@
 </body>
 </html>
 
-<body>
-    <h1>Food Categories</h1>
-    <ul>
-        <li><a href="fruits.html">Fruits</a></li>
-        <li><a href="vegetables.html">Vegetables</a></li>
-        <li><a href="grains.html">Grains</a></li>
-        <li><a href="meat.html">Meen</a></li>
-    </ul>
-</body>
+
+/food-website
+│── index.html  (Home page with category links)
+│── hair-growth.html  (Page listing foods for hair growth)
+│── muscle-recovery.html  (Page listing foods for muscle recovery)
+│── clear-skin.html  (Page listing foods for clear skin)
+│── bone-recovery.html  (Page listing foods for bone recovery)
+│── joint-pain.html  (Page listing foods for joint pain)
+│── food-details
+│   ├── eggs.html  (Example: Food item page)
+│   ├── salmon.html  
+│   ├── almonds.html  
+│── images
+│   ├── eggs.jpg
+│   ├── salmon.jpg
+│   ├── almonds.jpg
+│── styles.css (CSS file)
+│── README.md (Project description)
 
